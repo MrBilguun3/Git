@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cee49d7-970f-45f6-b1ad-f7b35c75a5ab" name="Default Changelist" comment="" />
+    <list default="true" id="8cee49d7-970f-45f6-b1ad-f7b35c75a5ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,9 +60,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="123" width="1240" height="623" key="DiffContextDialog" timestamp="1582991022182">
+    <state x="100" y="123" width="1240" height="623" key="DiffContextDialog" timestamp="1582994352428">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="100" y="123" width="1240" height="623" key="DiffContextDialog/0.23.1440.826@0.23.1440.826" timestamp="1582991022182" />
+    <state x="100" y="123" width="1240" height="623" key="DiffContextDialog/0.23.1440.826@0.23.1440.826" timestamp="1582994352428" />
   </component>
 </project>
